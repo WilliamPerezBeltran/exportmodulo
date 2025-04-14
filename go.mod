@@ -1,3 +1,3 @@
-module github.com/WilliamPerezBeltran/exportmodulo
+module libreria
 
 go 1.24.2
